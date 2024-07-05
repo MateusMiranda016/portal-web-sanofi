@@ -70,7 +70,7 @@ export default function InicioPage() {
       <div className="w-1/2">
         <img
           className="h-[100vh] w-[100%]"
-          src="./assets/images/InicioImage.png"
+          src="../../public/assets/Images/InicioImage.png"
           alt="Imagem contendo objetos de escritório com predominância da cor roxa"
         />
       </div>
