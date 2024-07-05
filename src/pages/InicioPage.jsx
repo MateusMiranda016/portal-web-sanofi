@@ -77,7 +77,7 @@ export default function InicioPage() {
       <div className="w-1/2 pt-[200px] px-[5%]">
         <img
           className="m-auto pb-[60px]"
-          src="https://camo.githubusercontent.com/104b1a00622b5b986a76f508e705e72bc9ad0cea361087a49a4e16c723e80a96/68747470733a2f2f6c6f676f646f776e6c6f61642e6f72672f77702d636f6e74656e742f75706c6f6164732f323031382f30392f73616e6f66692d6c6f676f2d31362e706e67"
+          src="https://raw.githubusercontent.com/MateusMiranda016/portal-web-sanofi/main/src/Images/LogoSanofi.png"
           alt="Logo da Sanofi"
         />
         <div>
