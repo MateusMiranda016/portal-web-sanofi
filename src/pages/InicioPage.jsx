@@ -70,14 +70,14 @@ export default function InicioPage() {
       <div className="w-1/2">
         <img
           className="h-[100vh] w-[100%]"
-          src="../../public/assets/Images/InicioImage.png"
+          src="InicioImage.png"
           alt="Imagem contendo objetos de escritório com predominância da cor roxa"
         />
       </div>
       <div className="w-1/2 pt-[200px] px-[5%]">
         <img
           className="m-auto pb-[60px]"
-          src="./assets/images/LogoSanofi.png"
+          src="LogoSanofi.png"
           alt="Logo da Sanofi"
         />
         <div>
