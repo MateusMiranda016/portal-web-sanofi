@@ -20,11 +20,6 @@ export default function CardHeader() {
         />
       </div>
       <div className="flex items-center mr-5 gap-[10px]">
-        <img
-          className="w-[40px]"
-          src="../assets/Images/bell-badge.png"
-          alt="Sino de Notificações"
-        />
         <Link to={"/perfil"}>
           <img
             className="w-[70px] hover:scale-125 transition-all rounded-full"
